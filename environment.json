@@ -4,12 +4,12 @@
 	"values": [
 		{
 			"key": "url1",
-			"value": "php://fastapijenkins:8999",
+			"value": "http://fastapijenkins:8999",
 			"type": "default",
 			"enabled": true
 		}
 	],
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2024-09-18T14:54:16.437Z",
+	"_postman_exported_at": "2024-09-18T14:56:59.998Z",
 	"_postman_exported_using": "Postman/11.12.0"
 }
