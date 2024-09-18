@@ -12,7 +12,7 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": "{{url}}"
+				"url": "{{url1}}"
 			},
 			"response": []
 		}
